@@ -6,5 +6,5 @@
   <img src="https://media1.tenor.com/m/elWTPYIsdG8AAAAd/nanami-kento-nanami.gif">
 </div>
 
-<sub>[ATABOOK](https://collapse.atabook.org/)ㅤ[STRAWPAGE](https://ratio-technique.straw.page/)</sub>
+<br/><sub>[ATABOOK](https://collapse.atabook.org/)ㅤ[STRAWPAGE](https://ratio-technique.straw.page/)</sub>
 
