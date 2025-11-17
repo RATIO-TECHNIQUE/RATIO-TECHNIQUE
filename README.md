@@ -2,10 +2,9 @@
   
 ![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=lightgray&style=plastic&label=♡&abbreviated=true)
 
- <div align="center">
+<div align="center">
   <img src="https://media1.tenor.com/m/elWTPYIsdG8AAAAd/nanami-kento-nanami.gif">
 </div>
 
-<br/>[**_ata_**](https://collapse.atabook.org/) / [**_straw_**](https://ratio-technique.straw.page/) !!
-
+<sub>[ATABOOK](https://collapse.atabook.org/)ㅤ[STRAWPAGE](https://ratio-technique.straw.page/)</sub>
 
