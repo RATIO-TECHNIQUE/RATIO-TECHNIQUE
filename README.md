@@ -5,3 +5,5 @@
  <div align="center">
   <img src="https://media1.tenor.com/m/elWTPYIsdG8AAAAd/nanami-kento-nanami.gif">
 </div>
+
+[**_ata_**](https://collapse.atabook.org/) / [**_straw_**](https://ratio-technique.straw.page/) !!
