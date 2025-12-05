@@ -2,7 +2,11 @@
   
 ![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=blue&style=plastic&label=♡&abbreviated=true)
 
-<br/><img src="https://image2url.com/images/1764892716662-aa2a7187-7c51-40f3-b011-8d17455483ef.png" alt="Sample Image" width="270" height="50">
+<br/><img src="https://image2url.com/images/1764893596433-59b61b32-0df4-4661-b3b3-8a82b1fe3d0e.png" alt="Sample Image" width="270" height="50">
+
+<div align="center">
+  <img src="https://watermelon.crd.co/assets/images/gallery16/57de5ebd.png?v=e2e5e274">
+</div>
 
 
 
