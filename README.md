@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=5D9DDE&style=plastic&label=♡&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=5D9DDE&style=plastic&label=♪‧₊˚&abbreviated=true)
 
 <img src="https://image2url.com/images/1764893596433-59b61b32-0df4-4661-b3b3-8a82b1fe3d0e.png" alt="Sample Image" width="270" height="100">
 
