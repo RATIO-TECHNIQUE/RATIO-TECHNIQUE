@@ -10,9 +10,9 @@
 
 
 
-<div align="center">
+<br/><div align="center">
   <img src="https://media1.tenor.com/m/6l9W1KazMtkAAAAd/jujutsu-kaisen-nanami-kento.gif">
 </div>
 
-<br/><sub>[ATABOOK](https://collapse.atabook.org/)ㅤ[STRAWPAGE](https://ratio-technique.straw.page/)</sub>
+<sub>[ATABOOK](https://collapse.atabook.org/)ㅤ[STRAWPAGE](https://ratio-technique.straw.page/)</sub>
 
