@@ -10,7 +10,7 @@
 
 
 
-<br/><div align="center">
+<div align="center">
   <img src="https://media1.tenor.com/m/6l9W1KazMtkAAAAd/jujutsu-kaisen-nanami-kento.gif">
 </div>
 
