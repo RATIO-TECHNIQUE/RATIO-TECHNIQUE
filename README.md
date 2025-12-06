@@ -5,7 +5,7 @@
 <img src="https://image2url.com/images/1764893596433-59b61b32-0df4-4661-b3b3-8a82b1fe3d0e.png" alt="Sample Image" width="500" height="500">
 
 <div align="center">
-<br/><img src="https://image2url.com/images/1764898017521-9ecd5271-9fb8-4525-882a-3fbec6979008.png" alt="Sample Image" width="400" height="500"
+<br/><img src="https://image2url.com/images/1764898017521-9ecd5271-9fb8-4525-882a-3fbec6979008.png" alt="Sample Image" width="300" height="500"
 </div>
 
 
