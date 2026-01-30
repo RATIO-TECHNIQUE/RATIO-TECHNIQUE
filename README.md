@@ -1,9 +1,9 @@
-<br/><div align="center">
+<div align="center">
   <img src="https://dividers.crd.co/assets/images/gallery04/937bcf07.gif?v=05d33f91">
 </div>
 
-<br/><div align="center">
-  <img src="https://64.media.tumblr.com/3e16a5cbcd806441a34a77c103964cb9/6358e14772faff9b-60/s2048x3072/4b87eb3251b08ba89f321ea55aec32862b2e5baf.pnj">
+<div align="center">
+  <img src="https://i.postimg.cc/nLxjBrDC/cloud-div-thing.png">
 </div>
 
 
@@ -26,9 +26,9 @@
 </div>
 
 <br/><div align="center">
-  <img src="https://64.media.tumblr.com/3e16a5cbcd806441a34a77c103964cb9/6358e14772faff9b-60/s2048x3072/4b87eb3251b08ba89f321ea55aec32862b2e5baf.pnj">
+  <img src="https://i.postimg.cc/G2HyhNDQ/cloud-div-thing-2.png">
 </div>
 
-<br/><div align="center">
+<div align="center">
   <img src="https://dividers.crd.co/assets/images/gallery04/937bcf07.gif?v=05d33f91">
 </div>
