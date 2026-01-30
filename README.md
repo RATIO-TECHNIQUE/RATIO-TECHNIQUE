@@ -13,7 +13,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=SORCERER-KILLER&color=367380&style=flat&label=𖹭&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=C6ACB3&style=flat&label=୨୧&abbreviated=true)
 
 <br/><div align="center">
   <img src="https://img.sanishtech.com/u/c2cfcf1c86978f8e4c08bcd6ad2e6715.png">
