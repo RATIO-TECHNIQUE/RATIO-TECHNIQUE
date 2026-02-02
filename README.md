@@ -16,7 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=C6ACB3&style=flat&label=୨୧&abbreviated=true)
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/0b28fc070001be22d4bf2a3925c14e58.png">
+  <img src="https://image2url.com/r2/default/images/1769993241591-02bfa70b-2bd2-4666-b1c2-1b971e20fadc.png">
 </div>
 
 <br/><sub>[ATABOOK](https://collapse.atabook.org/)  [✦](https://github.com/SORCERER-KILLER)          [STRAWPAGE](https://oveertime.straw.page/)</sub>
