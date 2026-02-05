@@ -8,7 +8,7 @@
 
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/a09a38ed3f1eb5d487732aab76c66645.png">
+  <img src="https://img.sanishtech.com/u/f04b480b35a40d2da6ee3a89b877f1cd.png">
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 <br/><sub>[ATABOOK](https://collapse.atabook.org/)  [✦](https://github.com/SORCERER-KILLER)          [STRAWPAGE](https://oveertime.straw.page/)</sub>
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/658a02abc09b65b24f4775c8a1804522.png">
+  <img src="https://img.sanishtech.com/u/27dd148fe5f5bfd4e5b6b6f13c171940.png">
 </div>
 
 <br/><div align="center">
