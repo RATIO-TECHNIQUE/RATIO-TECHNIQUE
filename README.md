@@ -8,7 +8,7 @@
 
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/f04b480b35a40d2da6ee3a89b877f1cd.png">
+  <img src="https://img.sanishtech.com/u/5d4b774f587395eca1f995fad3bc1f7f.png">
 </div>
 
 <div align="center">
@@ -16,13 +16,13 @@
 ![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=C6ACB3&style=flat&label=୨୧&abbreviated=true)
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/74f605006a44bb32f06dfcc53bad376f.png">
+  <img src="https://img.sanishtech.com/u/03f9ded3509b082a158345c8943f68f0.png">
 </div>
 
 <br/><sub>[ATABOOK](https://collapse.atabook.org/)  [✦](https://github.com/SORCERER-KILLER)          [STRAWPAGE](https://oveertime.straw.page/)</sub>
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/27dd148fe5f5bfd4e5b6b6f13c171940.png">
+  <img src="https://img.sanishtech.com/u/6697be4a80c2a8dcfb55959536c06802.png">
 </div>
 
 <br/><div align="center">
