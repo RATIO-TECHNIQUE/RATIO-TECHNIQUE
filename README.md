@@ -19,7 +19,7 @@
   <img src="https://img.sanishtech.com/u/4871ed3417e8ad417f046274b94a0ce5.png">
 </div>
 
-<br/><sub>[ATABOOK](https://collapse.atabook.org/)  [✦](https://github.com/SORCERER-KILLER)          [STRAWPAGE](https://oveertime.straw.page/)</sub>
+<br/><sub>[ATABOOK](https://collapse.atabook.org/)  ✦          [STRAWPAGE](https://oveertime.straw.page/)</sub>
 
 <br/><div align="center">
   <img src="https://img.sanishtech.com/u/36805a4991d6b2cdcaa400bcb59671ec.png">
