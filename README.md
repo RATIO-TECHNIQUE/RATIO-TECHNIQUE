@@ -1,6 +1,6 @@
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/9f4d8679231a2ec72832a0e1d7358599.png">
+  <img src="https://img.sanishtech.com/u/0d2b5c2770cfcca7e377a691a940e961.png">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=C6ACB3&style=flat&label=୨୧&abbreviated=true)
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/016df9da7fc10588c9437021b3f2f225.png">
+  <img src="https://img.sanishtech.com/u/25c6eacc18320f0a36d5b6712ac49f1d.png">
 </div>
 
 <br/><br/><sub>[ATABOOK](https://collapse.atabook.org/)  ✦          [STRAWPAGE](https://oveertime.straw.page/)</sub>
@@ -22,7 +22,7 @@
 </div>
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/e5f2feaca2e524b7d3da601f195bf2c0.png">
+  <img src="https://img.sanishtech.com/u/effe1e8faee37b98b231833f0dbacc9f.png">
 </div>
 
 
