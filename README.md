@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=C6ACB3&style=flat&label=୨୧&abbreviated=true)
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/25c6eacc18320f0a36d5b6712ac49f1d.png">
+  <img src="https://i.imgur.com/80Xxcld.png">
 </div>
 
 <br/><br/><sub>[ATABOOK](https://collapse.atabook.org/)  ✦          [STRAWPAGE](https://oveertime.straw.page/)</sub>
