@@ -1,6 +1,6 @@
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/0d2b5c2770cfcca7e377a691a940e961.png">
+  <img src="https://i.imgur.com/hGt8wS7.png">
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </div>
 
 <br/><div align="center">
-  <img src="https://img.sanishtech.com/u/effe1e8faee37b98b231833f0dbacc9f.png">
+  <img src="https://i.imgur.com/c0mgAMt.png">
 </div>
 
 
