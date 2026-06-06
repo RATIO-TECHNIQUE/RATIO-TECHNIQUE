@@ -9,10 +9,10 @@
 
 <br/><br/><div align="center">
   
-![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=C6ACB3&style=flat&label=୨୧&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=5936bd&style=flat&label=୨୧&abbreviated=true)
 
 <br/><div align="center">
-  <img src="https://i.imgur.com/80Xxcld.png">
+  <img src="https://i.imgur.com/JIiHK3t.png">
 </div>
 
 <br/><br/><sub>[ATABOOK](https://collapse.atabook.org/)  ✦          [STRAWPAGE](https://oveertime.straw.page/)</sub>
