@@ -1,6 +1,6 @@
 
 <br/><div align="center">
-  <img src="https://i.imgur.com/hGt8wS7.png">
+  <img src="https://imgur.com/gallery/AdOmYjX">
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </div>
 
 <br/><div align="center">
-  <img src="https://i.imgur.com/c0mgAMt.png">
+  <img src="https://imgur.com/gallery/AdOmYjX">
 </div>
 
 
