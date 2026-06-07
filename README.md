@@ -9,7 +9,7 @@
 
 <br/><br/><div align="center">
   
-![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=5936bd&style=flat&label=୨୧&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=RATIO-TECHNIQUE&color=5936bd&style=flat&label=୨୧)
 
 <br/><div align="center">
   <img src="https://i.imgur.com/JIiHK3t.png" width="680" alt="Alt text" />
