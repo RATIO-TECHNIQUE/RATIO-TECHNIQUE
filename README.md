@@ -26,7 +26,7 @@
   <img src="https://i.imgur.com/DX1WccV.png" width="690" alt="Alt text" />
 </div>
 
-<sub/> honorable mention to [nez](https://github.com/phantomedjoker) cuz she wanted to be in my gh <img width="15" height="15" alt="image" src="https://tiktokemojiz.com/wp-content/uploads/2025/09/happy.png" />
+<sub/> honorable mention to [nez](https://github.com/phantomedjoker) cuz she wanted to be in my gh!!
 
 
 
